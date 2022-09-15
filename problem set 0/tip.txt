@@ -1,0 +1,4 @@
+to print emojis in windows console set python encoding to utf-8
+
+chcp 65001
+set PYTHONIOENCODING=utf-8
