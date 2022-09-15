@@ -13,5 +13,4 @@ def isInputFortyTwo(str_userInput):
     isViable = any(value in str_userInput for value in viableInputs)
     return isViable
 
-while True:
-    main()
+main()
